@@ -14,7 +14,7 @@
 канон, так и менее известных сегодня, но популярных в свое время
 писателей.
 # Ссылка на корпус/Пайплайн для работы с корпусом
-## Здесь лежит [ссылка на архив с корпусом](https://drive.google.com/file/d/13ggzd8AnsSiucMYUAS6DKpEK5OmsPBf0/view?usp=sharing). Внутри архива CSV файл, в котором содержатся как все тексты, так и мета-информация о них.
-## Здесь находится [ссылка на сайт dataverse](https://dataverse.pushdom.ru/dataset.xhtml?persistentId=doi:10.31860/openlit-2020.10-C004), откуда можно скачать все файлы отдельно. Также вы можете воспользоваться [нашей тетрадкой](https://colab.research.google.com/drive/1DETFfosUYclRLG_1LKvEh7-56Szi8L1r?usp=sharing), чтобы сделать CSV файл самостоятельно.
+#### Здесь лежит [ссылка на архив с корпусом](https://drive.google.com/file/d/13ggzd8AnsSiucMYUAS6DKpEK5OmsPBf0/view?usp=sharing). Внутри архива CSV файл, в котором содержатся как все тексты, так и мета-информация о них.
+#### Здесь находится [ссылка на сайт dataverse](https://dataverse.pushdom.ru/dataset.xhtml?persistentId=doi:10.31860/openlit-2020.10-C004), откуда можно скачать все файлы отдельно. Также вы можете воспользоваться [нашей тетрадкой](https://colab.research.google.com/drive/1DETFfosUYclRLG_1LKvEh7-56Szi8L1r?usp=sharing), чтобы сделать CSV файл самостоятельно.
 # Пример выполнения задания
 # Контакты для связи
