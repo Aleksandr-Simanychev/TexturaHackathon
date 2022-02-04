@@ -28,6 +28,6 @@
 Здесь находится [ссылка на сайт dataverse](https://dataverse.pushdom.ru/dataset.xhtml?persistentId=doi:10.31860/openlit-2020.10-C004), откуда можно скачать все файлы отдельно. Также вы можете воспользоваться [нашей тетрадкой](https://colab.research.google.com/drive/1DETFfosUYclRLG_1LKvEh7-56Szi8L1r?usp=sharing), чтобы сделать CSV файл самостоятельно.
 
 # Пример выполнения задания
-Чтобы вам было на что опираться, призываем вас обратить внимание на [данную тетрадку](https://colab.research.google.com/drive/1ghKn8JRZisfRwrPWCtZMj1JFrVOOM1XF?usp=sharing). В качестве исследуемого материала был выбран тот же текст и тот же корпус, что предложен вам. Рассматриваемая метрика -- читаемость.
+Чтобы вам было на что опираться, призываем вас обратить внимание на [данную тетрадку](https://colab.research.google.com/drive/1ghKn8JRZisfRwrPWCtZMj1JFrVOOM1XF?usp=sharing). В качестве исследуемого материала был тот же корпус, что предложен вам, но другой текст. Рассматриваемая метрика -- читаемость.
 # Контакты для связи
 https://t.me/alekseyeless
